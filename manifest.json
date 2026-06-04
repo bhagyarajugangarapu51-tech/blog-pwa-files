@@ -1,10 +1,10 @@
 {
   "name": "AllCartAlliance",
   "short_name": "AllCart",
-  "start_url": "https://allcartalliance51.blogspot.com/",
+  "start_url": "/",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#1a73e8",
-  "description": "Install my blog as an app",
+  "background_color": "#0d47a1",
+  "theme_color": "#0d47a1",
+  "description": "AllCartAlliance Hub-All your shopping in one place"
   
 }
